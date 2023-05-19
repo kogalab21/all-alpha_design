@@ -1,6 +1,6 @@
 # all-alpha_design
 
-This repository is for the research article entitled “Design of complicated all-α protein structures” 
+This repository is for the research article entitled "Design of complicated all-alpha protein structures"
 by Koya Sakuma, Naohiro Kobayashi, Toshihiko Sugiki, Toshio Nagashima, Toshimichi Fujiwara, Kano Suzuki, 
 Naoya Kobayashi, Takeshi Murata, Takahiro Kosugi, Rie Koga, and Nobuyasu Koga.
 
